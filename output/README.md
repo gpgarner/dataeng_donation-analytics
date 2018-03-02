@@ -1,1 +1,1 @@
-This directory is where we would expect your program to write the requested output files.
+The output file repeat_donors.txt is written in this folder.
